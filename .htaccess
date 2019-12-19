@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteRule ^indexFinance.php$ view/indexFinance.php
+RewriteRule ^.{0}$ index.php
+
